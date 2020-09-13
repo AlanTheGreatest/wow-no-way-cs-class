@@ -1,0 +1,23 @@
+body{ 
+background-color: lightblue;
+text-align: center;
+}
+
+a:link {
+color: purple;
+}
+
+a:visited {
+color: hotpink;
+}
+
+a:hover {
+color: red;
+}
+
+.quote {
+position: relative;
+color: red;
+font-size: 30px;
+top: 550px;
+}
